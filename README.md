@@ -1,5 +1,8 @@
 # vercel.config
-<code>
+
+#### vercel.json
+
+```
 {
     "version" : 2,
     "name" : "Full Stack",
@@ -16,4 +19,5 @@
         }
     ]
 }
-</code>
+
+```
