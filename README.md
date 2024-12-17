@@ -1,6 +1,6 @@
 # vercel.config
 
-#### vercel.json
+#### vercel.json for backend
 
 ```
 {
